@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         view.addSubview((loginButton))
         loginButton.center = view.center
         print("Hello")
+        print("second statement")
 
     }
 
