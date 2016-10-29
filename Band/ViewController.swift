@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         super.viewDidLoad();
         view.addSubview((loginButton))
         loginButton.center = view.center
+        print("Hello")
 
     }
 
